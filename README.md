@@ -1,4 +1,4 @@
-### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=kingsleyabonyi&icon=0&color=0)](https://visitcount.itsvg.in)
+### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=kingsleyabonyi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 Here are some ideas to get you started:
@@ -7,12 +7,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flask and fastApi
 - 👯 I’m looking to collaborate on baackend dev projects
 - 🤔 I’m looking for help with Internship opportunities to horne my skills
-- 💬 Ask me about ...
+- 💬 Ask me about Life and personal Opinions
 - 📫 How to reach me: kinabonyi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *i don't like oranges
 
-##About me
+### About me
+I can work confidently alone but nothing beats team work and I am a very good team player. This is one of my strength. 
+My name is Nnamdi Abonyi and I am a backend developer!. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nnamdi-abonyi/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Nnamdi-Abonyi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kinabonyi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/kinabonyi) 
 
