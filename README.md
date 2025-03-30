@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on music app 
-- 🌱 I’m currently learning flask and fastApi
+- 🔭 I am student of Autonomous Vehicle Engineering at Technical University of Applied Science Ingolstadt (THI), Germany
+- 🌱  I use Django s a framework for backend and I’m currently Exploring fastApi
 - 👯 I’m looking to collaborate on backend dev projects
 - 🤔 I’m looking for help with Internship opportunities to horne my skills
 - 💬 Ask me about Life and personal Opinions
